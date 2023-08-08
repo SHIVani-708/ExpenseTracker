@@ -1,0 +1,26 @@
+body{
+    font-family: math;
+    font-size: x-large;
+}
+.container{
+    margin: 30px;
+}
+.head{
+    display: flex;
+    position: relative;
+}
+.expense-tracker{
+    width: 50%;
+}
+label{
+    margin-top: 2rem;
+}
+
+form{
+    border-right: 2px solid gray;
+}
+
+#items{
+    color: rgb(100, 98, 98);
+    font-size: 1.2rem;
+}
